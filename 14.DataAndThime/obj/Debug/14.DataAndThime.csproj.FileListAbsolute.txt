@@ -1,5 +1,0 @@
-D:\Visual Studio\Home Works\IntroductionToProgramming\14.DataAndThime\bin\Debug\14.DataAndThime.exe.config
-D:\Visual Studio\Home Works\IntroductionToProgramming\14.DataAndThime\bin\Debug\14.DataAndThime.exe
-D:\Visual Studio\Home Works\IntroductionToProgramming\14.DataAndThime\bin\Debug\14.DataAndThime.pdb
-D:\Visual Studio\Home Works\IntroductionToProgramming\14.DataAndThime\obj\Debug\14.DataAndThime.exe
-D:\Visual Studio\Home Works\IntroductionToProgramming\14.DataAndThime\obj\Debug\14.DataAndThime.pdb

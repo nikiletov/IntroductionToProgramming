@@ -1,6 +1,0 @@
-D:\Visual Studio\Home Works\IntroductionToProgramming\08.Square\bin\Debug\08.Square.exe.config
-D:\Visual Studio\Home Works\IntroductionToProgramming\08.Square\bin\Debug\08.Square.exe
-D:\Visual Studio\Home Works\IntroductionToProgramming\08.Square\bin\Debug\08.Square.pdb
-D:\Visual Studio\Home Works\IntroductionToProgramming\08.Square\obj\Debug\08.Square.csprojResolveAssemblyReference.cache
-D:\Visual Studio\Home Works\IntroductionToProgramming\08.Square\obj\Debug\08.Square.exe
-D:\Visual Studio\Home Works\IntroductionToProgramming\08.Square\obj\Debug\08.Square.pdb

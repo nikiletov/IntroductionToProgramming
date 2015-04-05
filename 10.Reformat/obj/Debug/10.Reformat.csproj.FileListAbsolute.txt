@@ -1,5 +1,0 @@
-D:\Visual Studio\Home Works\IntroductionToProgramming\10.Reformat\bin\Debug\10.Reformat.exe.config
-D:\Visual Studio\Home Works\IntroductionToProgramming\10.Reformat\bin\Debug\10.Reformat.exe
-D:\Visual Studio\Home Works\IntroductionToProgramming\10.Reformat\bin\Debug\10.Reformat.pdb
-D:\Visual Studio\Home Works\IntroductionToProgramming\10.Reformat\obj\Debug\10.Reformat.exe
-D:\Visual Studio\Home Works\IntroductionToProgramming\10.Reformat\obj\Debug\10.Reformat.pdb

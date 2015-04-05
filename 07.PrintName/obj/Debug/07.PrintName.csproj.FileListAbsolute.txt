@@ -1,5 +1,0 @@
-D:\Visual Studio\Home Works\IntroductionToProgramming\07.PrintName\bin\Debug\07.PrintName.exe.config
-D:\Visual Studio\Home Works\IntroductionToProgramming\07.PrintName\bin\Debug\07.PrintName.exe
-D:\Visual Studio\Home Works\IntroductionToProgramming\07.PrintName\bin\Debug\07.PrintName.pdb
-D:\Visual Studio\Home Works\IntroductionToProgramming\07.PrintName\obj\Debug\07.PrintName.exe
-D:\Visual Studio\Home Works\IntroductionToProgramming\07.PrintName\obj\Debug\07.PrintName.pdb
