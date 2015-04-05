@@ -1,0 +1,5 @@
+D:\Visual Studio\Home Works\IntroductionToProgramming\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.exe.config
+D:\Visual Studio\Home Works\IntroductionToProgramming\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.exe
+D:\Visual Studio\Home Works\IntroductionToProgramming\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.pdb
+D:\Visual Studio\Home Works\IntroductionToProgramming\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.exe
+D:\Visual Studio\Home Works\IntroductionToProgramming\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.pdb

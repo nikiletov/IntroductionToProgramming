@@ -1,0 +1,5 @@
+D:\Visual Studio\Home Works\IntroductionToProgramming\04.HelloWorld\bin\Debug\04.HelloWorld.exe.config
+D:\Visual Studio\Home Works\IntroductionToProgramming\04.HelloWorld\bin\Debug\04.HelloWorld.exe
+D:\Visual Studio\Home Works\IntroductionToProgramming\04.HelloWorld\bin\Debug\04.HelloWorld.pdb
+D:\Visual Studio\Home Works\IntroductionToProgramming\04.HelloWorld\obj\Debug\04.HelloWorld.exe
+D:\Visual Studio\Home Works\IntroductionToProgramming\04.HelloWorld\obj\Debug\04.HelloWorld.pdb
